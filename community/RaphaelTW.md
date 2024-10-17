@@ -127,14 +127,3 @@
   <a href="https://open.spotify.com/user/scar.raphael?si=9c893d2ea4f3433e&nd=1" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"/>
   </a>
-  
-  <a href="https://www.reddit.com/user/Raphaeltw" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"/>
-  </a>
-  
-  <a href="https://t.me/@Laurentinox" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"/>
-  </a>
-</div>
-
-###
